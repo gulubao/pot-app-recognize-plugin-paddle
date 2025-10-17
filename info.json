@@ -2,7 +2,7 @@
   "id": "plugin.com.pot-app.paddle",
   "plugin_type": "recognize",
   "icon": "paddle.png",
-  "display": "Paddle OCR",
+  "display": "PaddleOCR v5",
   "homepage": "https://github.com/pot-app/pot-app-recognize-plugin-paddle",
   "needs": [],
   "language": {

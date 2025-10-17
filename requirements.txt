@@ -1,0 +1,4 @@
+paddleocr>=2.0.1
+pillow>=8.0.0
+quart>=0.18.0
+uvloop>=0.17.0; sys_platform != "win32"
